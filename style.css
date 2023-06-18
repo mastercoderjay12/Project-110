@@ -1,0 +1,23 @@
+body{
+    background-color: darkmagenta;
+
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    padding-left:  12px; ;
+
+
+}
+#div1{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+#result{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+}
